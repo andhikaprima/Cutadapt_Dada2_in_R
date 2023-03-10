@@ -1,7 +1,7 @@
 #############################################################
-## This script to run DNA metabarocoding pipeline fully in R
-## Cutadapt was used to demultiplex and remove the primer
-## This script in modification form training material of
+## This is the script to run DNA metabarcoding pipeline fully in R environment
+## Cutadapt need te be installed for demultiplexing and primer removal
+## This script is modification for NEOF and iBioGen consortium training materials 
 ## 1. https://neof-workshops.github.io (DADA2 pipeline)
 ## 2. https://learnmetabarcoding.github.io (Datasets and pipeline to work with cutadapt in linux environment
 ## Andhika Prasetyo | andh009@brin.go.id
