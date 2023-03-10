@@ -1,0 +1,64 @@
+	Kingdom	Phylum	Class	Order	Family	Genus	Species
+ASV_1	Animalia	Arthropoda	Insecta	Coleoptera	Elateridae		CPBC0013
+ASV_2	Animalia	Arthropoda	Insecta	Coleoptera	Cerambycidae		CPBC0015
+ASV_3	Animalia	Arthropoda	Insecta	Coleoptera	Curculionidae		CPBC0070
+ASV_4	Animalia	Arthropoda	Insecta	Coleoptera	Tenebrionidae		NA
+ASV_5	Animalia	Arthropoda	Insecta	Coleoptera	NA	NA	NA
+ASV_6	Animalia	Arthropoda	Insecta	Coleoptera	NA	NA	NA
+ASV_7	Animalia	Arthropoda	Insecta	Coleoptera	Mordellidae		CPBC0106
+ASV_8	Animalia	Arthropoda	Insecta	Coleoptera	Elateridae		CPBC0013
+ASV_9	Animalia	Arthropoda	Insecta	Coleoptera	NA	NA	NA
+ASV_10	Animalia	Arthropoda	Insecta	Coleoptera	NA	NA	NA
+ASV_11	Animalia	Arthropoda	Insecta	Coleoptera	Elateridae		CPBC0013
+ASV_12	Animalia	Arthropoda	Insecta	Coleoptera	Curculionidae		NA
+ASV_13	Animalia	Arthropoda	Insecta	Coleoptera	Curculionidae		CPBC0033
+ASV_14	Animalia	Arthropoda	Insecta	Coleoptera	family		CPBC0225
+ASV_15	Animalia	Arthropoda	Insecta	Coleoptera	Elateridae		CPBC0013
+ASV_16	Animalia	Arthropoda	Insecta	Coleoptera	Elateridae		CPBC0013
+ASV_17	Animalia	Arthropoda	Insecta	Coleoptera	Chrysomelidae		CPBC0141
+ASV_18	Animalia	Arthropoda	Insecta	Coleoptera	Elateridae		CPBC0013
+ASV_19	Animalia	Arthropoda	Insecta	Coleoptera	Elateridae		CPBC0013
+ASV_20	Animalia	Arthropoda	Insecta	Coleoptera	Chrysomelidae		CPBC0044
+ASV_21	Animalia	Arthropoda	Insecta	Coleoptera	Staphylinidae		CPBC0018
+ASV_22	Animalia	Arthropoda	Insecta	Coleoptera	Chrysomelidae		CPBC0209
+ASV_23	Animalia	Arthropoda	Insecta	Coleoptera	Salpingidae		CPBC0065
+ASV_24	Animalia	Arthropoda	Insecta	Coleoptera	Chrysomelidae		CPBC0209
+ASV_25	Animalia	Arthropoda	Insecta	Coleoptera	family		CPBC0226
+ASV_26	Animalia	Arthropoda	Insecta	Coleoptera	Chrysomelidae		CPBC0045
+ASV_27	Animalia	Arthropoda	Insecta	Coleoptera	Curculionidae		CPBC0097
+ASV_28	Animalia	Arthropoda	Insecta	Coleoptera	NA	NA	NA
+ASV_29	Animalia	Arthropoda	Insecta	Coleoptera	Chrysomelidae		CPBC0029
+ASV_30	Animalia	Arthropoda	Insecta	Coleoptera	Chrysomelidae		CPBC0029
+ASV_31	Animalia	Arthropoda	Insecta	Coleoptera	NA	NA	NA
+ASV_32	Animalia	Arthropoda	Insecta	Coleoptera	Chrysomelidae		CPBC0209
+ASV_33	Animalia	Arthropoda	Insecta	Coleoptera	Curculionidae		CPBC0097
+ASV_34	Animalia	Arthropoda	Insecta	Coleoptera	Chrysomelidae		CPBC0209
+ASV_35	Animalia	Arthropoda	Insecta	Coleoptera	Salpingidae		CPBC0065
+ASV_36	Animalia	Arthropoda	Insecta	Coleoptera	Chrysomelidae		CPBC0210
+ASV_37	Animalia	Arthropoda	Insecta	Coleoptera	Staphylinidae		NA
+ASV_38	Animalia	Arthropoda	Insecta	Coleoptera	Curculionidae		CPBC0033
+ASV_39	Animalia	Arthropoda	Insecta	Coleoptera	Chrysomelidae		CPBC0084
+ASV_40	Animalia	Arthropoda	Insecta	Coleoptera	NA	NA	NA
+ASV_41	Animalia	Arthropoda	Insecta	Coleoptera	NA	NA	NA
+ASV_42	Animalia	Arthropoda	Insecta	Coleoptera	NA	NA	NA
+ASV_43	Animalia	Arthropoda	Insecta	Coleoptera	NA	NA	NA
+ASV_44	Animalia	Arthropoda	Insecta	Coleoptera	NA	NA	NA
+ASV_45	Animalia	Arthropoda	Insecta	Coleoptera	Chrysomelidae		CPBC0210
+ASV_46	Animalia	Arthropoda	Insecta	Coleoptera	Curculionidae		CPBC0033
+ASV_47	Animalia	Arthropoda	Insecta	Coleoptera	Curculionidae		CPBC0070
+ASV_48	Animalia	Arthropoda	Insecta	Coleoptera	Chrysomelidae		CPBC0209
+ASV_49	Animalia	Arthropoda	Insecta	Coleoptera	Salpingidae		CPBC0065
+ASV_50	Animalia	Arthropoda	Insecta	Coleoptera	Curculionidae		CPBC0037
+ASV_51	Animalia	Arthropoda	Insecta	Coleoptera	NA	NA	NA
+ASV_52	Animalia	Arthropoda	Insecta	Coleoptera	NA	NA	NA
+ASV_53	Animalia	Arthropoda	Insecta	Coleoptera	NA	NA	NA
+ASV_54	Animalia	Arthropoda	Insecta	Coleoptera	Carabidae		NA
+ASV_55	Animalia	Arthropoda	Insecta	Coleoptera	NA	NA	NA
+ASV_56	Animalia	Arthropoda	Insecta	Coleoptera	NA	NA	NA
+ASV_57	Animalia	Arthropoda	Insecta	Coleoptera	Chrysomelidae		CPBC0084
+ASV_58	Animalia	Arthropoda	Insecta	Coleoptera	NA	NA	NA
+ASV_59	Animalia	Arthropoda	Insecta	Coleoptera	NA	NA	NA
+ASV_60	Animalia	Arthropoda	Insecta	Coleoptera	NA	NA	NA
+ASV_61	Animalia	Arthropoda	Insecta	Coleoptera	NA	NA	NA
+ASV_62	Animalia	Arthropoda	Insecta	Coleoptera	NA	NA	NA
+ASV_63	Animalia	Arthropoda	Insecta	Coleoptera	Elateridae		CPBC0013
