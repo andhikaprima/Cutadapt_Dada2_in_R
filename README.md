@@ -1,5 +1,5 @@
 # Cutadapt_Dada2_in_R
-Do DNA metabarcoding pipeline fully in R with Cutadapt for demultiplexing and Dada2
+Do DNA metabarcoding pipeline fully in R using DADA2 pipeline and Cutadapt
 
 This is the script to run DNA metabarcoding pipeline fully in R environment
 Cutadapt need te be installed for demultiplexing and primer removal
